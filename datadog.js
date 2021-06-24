@@ -1,5 +1,5 @@
 function datadog() {
-  console.log("s s");
+  console.log("sds");
 }
 datadog();
 dd;
